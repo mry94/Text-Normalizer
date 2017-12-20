@@ -1,9 +1,8 @@
 # Text-Normalizer
 
-This is an implementation for Google challenge specified on the paper below:
+This is an implementation for Google challenge ,RNN Approaches to Text Normalization: A Challenge.
 
-RNN Approaches to Text Normalization: A Challenge:  https://arxiv.org/abs/1611.00068
+Detailed report on this project can be found at:
 
-
-Detailed report on this implementation can be found at:
+https://arxiv.org/abs/1712.06994
 
